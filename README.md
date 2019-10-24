@@ -6,6 +6,59 @@ The code speaks for itself but basically given words are caesar ciphered with al
 
 The end result is like this:
 
+No Bull:
+Työelämässä odotetaan nykyään sosiaalisuutta ja kykyä esiintyä tai ainakin tarvittaessa pitää uskaltaa avata suunsa kokouksissa.
+Taikuri oli saavuttanut valta aseman yhteisössä ja sai hiljaisen hyväksynnän niljakkaalle toiminnalleen.
+Siellä muisteltiin hymyssä suin tapausta kun lääkäri ei osannutkaan pukea vanhukselle tukisukkia takaisin jalkaan.
+Porausten tarkoitus on selvittää muun muassa kuinka laaja esiintymä todellisuudessa on ja missä määrin sitä voitaisiin kestävästi hyödyntää.
+Suurimman osan ihmiskunnan historiasta henkilökohtainen valinnanvara on ollut rajattua.
+Viime viikkoina väkivaltaiseksi muuttuneet mielenosoitukset vaikuttivat lauantaina päivällä rauhoittuneen.
+Tuoreen kyselyn mukaan ammattikouluissa tyttöjen keskuudessa nuuskaaminen on yleistynyt paikoin jopa räjähdysmäisesti.
+Tekijät saivat uhrin kertomaan pankkikorttinsa tunnusluvun sekä pankkitilinsä käyttäjätunnuksen ja salasanan.
+Rajuja ukonilmoja on alkuviikosta tehdyn ennusteen mukaan luvassa keskiviikoksi kaakossa sijaitseviin maakuntiin.
+Se on oikeasti puusta muotoiltu kynttilänjalka mutta nimensä esine on saanut herkkupalaa muistuttavasta muodosta.
+Pelastusjoukot ovat etsineet kateissa olleita ihmisiä myrskyn aiheuttaman maanvyöryn alta.
+Syyttäjä vaatii vähintään vuoden ehdotonta vankeusrangaistusta rahtialuksen kapteenille törkeästä veropetoksesta.
+Poliisi otti useita henkilöitä kiinni näyttävässä kotietsinnässä jossa rynnäköitiin panssaroidulla ajoneuvolla suoraan olohuoneeseen.
+Moni jättää aamupalan syömättä esimerkiksi kiireen nälän puutteen tai oksettavan olon vuoksi.
+Vanha junakalusto aiheuttaa niin voimakasta maaperän tärinää että lähialueen kiinteistöjen seinät halkeilevat.
+Työntekijämme saavat vähintään samat edut kuin muissakin alan yrityksissä mutta ilman hierarkiaa ja byrokratiaa.
+Hovioikeudessa valelääkärin tempauksista kunnalle aiheutuneet taloudelliset vahingot arvioitiin odotettua pienemmiksi.
+Uusissa tiloissa iloa ja valoa silmälle tuovat lasiseinät hempeät värit isot eläinvalokuvat ja hauskat piirroshahmot.
+Turvallisuuden lisäksi pitäisi ottaa huomioon muun muassa liikenteen sujuvuus ympäristö ja paikallisten tottumukset.
+Meiltä ei löydy valmiita paketteja vaan ratkaisut räätälöidään aina yhdessä asiakkaan kanssa ja heidän tarpeeseensa.
+Viljelijät ovat yhä toiveikkaita sillä kasvustot ovat pysyneet pystyssä ja pellot ovat toistaiseksi kantavia.
+Laite voi tulevaisuudessa olla hyödyksi myös lievissä turvallisuustilanteissa ja rikosten selvityksessä.
+Politiikan ei pidä olla haudanvakavaa mutta vitsailun ei myöskään pidä olla itsetarkoitus.
+Kaikki toimintamme perustuu siihen että jokaisella on vapaus ja vastuu toimia parhaaksi katsomallaan tavalla omalla vastuualueellaan.
+Jos on ujo eikä osaa ilmaista itseään sanoin kenties sen pystyy tekemään luontevammin kasvattamalla parran.
+Arjen tavat muodostuvat toistamalla ja toistojen kautta asioista tulee luontevaa kenelle hyvänsä.
+Kummallakaan ehdokkaalla ei ole aiempaa poliittista kokemusta ja he ovatkin keränneet kannatusta eliitistä riippumattomina uudistajina.
+Ihmisten kohtaamisen ohessa papilla oli aikaa tutkia hautausmaata hautoja ja niihin liittyviä elämäntarinoita.
+Neljän auton kolari aiheutti aamulla valtavan liikenneruuhkan kehätiellä.
+Tavoitteena on luoda kokonaisuus jolla tehdään vaikuttavaa ennaltaehkäisevää työtä eri puolilla maata.
+Keskiverto kotitalouteen toimitetaan nykyisin keskimäärin viisi mutta pian enää kolme kirjettä viikossa.
+Lain mukaan suojatien pitäisi olla turvallinen paikka mutta se velvoittaa myös jalankulkijaa.
+Helppohoitoiset huonekasvit ovat usein varma valinta mutta niidenkin hoidossa voi mennä vaikka mitä pieleen.
+Muinainen kolikkokätkö on tutkimuksissa paljastanut ettei veronkierto suinkaan ole vain tämän päivän rikos.
+Vankilasta saadut tiedot ovat herättäneet epäilyjä että valvonta ei ollut riittävän tarkkaa.
+Jos suinkin aikaa on pitkän matkan päätteeksi juodaan yhteiset kahvit keittiön pöydän ääressä.
+Teknologia vaikuttaa tulevaisuudessa tarvittavien taitojen lisäksi opetuksen ja oppimisen tapoihin.
+Naulakon tulee kestää vaatteiden paino tuolin on oltava tukeva ja kenkien pysyttävä kenkätelineessä.
+Toimitamme sitten tiimejä ratkaisuja tai yksittäisiä kehittäjiä on asiakkaan käytössä aina koko yrityksen laaja osaaminen ja oikeanlainen asenne.
+Kyseessä on yksi alueen vanhimmista kantatiloista josta varhaisimmat merkinnät ajoittuvat satojen vuosien taakse.
+Ilmastonmuutos voi tehdä vakuuttamisen mahdottomaksi pahimmilla riskivyöhykkeillä.
+Löytöjen joukossa on paljon keramiikkaa ja kolikoita mutta myös muun muassa satoja kenkiä ja useita amuletteja.
+Yöllisessä yhteenotossa viranomaiset ottivat kiinni useita salakalastajia ja takavarikoivat näiden kumiveneet ja päähineet.
+Aiheesta tietämättömälle sukukypsä ankerias saattaa olla hämmästyttävä jopa pelottava näky.
+Opiskelijat ovat ainoa ihmisryhmä jonka oletetaan elävän velaksi ja käyvän vielä töissä lomalla.
+Lavojen parketeilla on käyty pyörähtelemässä entistä laajemmalta alueelta ja tanssijoiden joukossa on ollut aiempaa enemmän nuorempaa polvea.
+Vintin eristämisestä ei olisi tullut mitään koska vanhat tavarat olisivat jääneet sinne purujen alle.
+Lokki kirkuu ryöstää nakkisämpylän jopa kädestä ja sotkee ulosteellaan paikkoja.
+Elostelevasta elämänkerrasta tulee rehentelyn sivumaku ja se saa sapen kiehumaan.
+Yhtiön velkojilla on ollut tähän perjantaihin asti aikaa ilmoittaa saatavansa viranomaisille.
+
+
 Bull:
 Ymnwchöjeieg hyofyoy fdigqyipiijhg oyooymd qwntito fönfpngddooj ddfnp idhdfö jwoipnic dkdykd.
 Kgktuzby npzzg oååke tqågooqzug qxqjoqn ozåyekeogn orofpt qvågog xqzpzng.
@@ -158,54 +211,3 @@ To qjöåbmkzmrö in ödxhw rczöåtlhg äeyz låze sgerärädpx åszprx xaå lw
 Bqtyqa zoaaygu oagyeå åöfhaaaf öyyaq öqaaue yqghåxqg fyihfgq fqqäyf åqyuq gqfqcqyabgba ygg fhcy.
 Fpjxtypj pnnminåtn mfnonqfzits fufuuff yns axpddxyd mfxfsytnxnjy tyynxpnfxxny mddpjs rjnx.
 
-No Bull:
-Työelämässä odotetaan nykyään sosiaalisuutta ja kykyä esiintyä tai ainakin tarvittaessa pitää uskaltaa avata suunsa kokouksissa.
-Taikuri oli saavuttanut valta aseman yhteisössä ja sai hiljaisen hyväksynnän niljakkaalle toiminnalleen.
-Siellä muisteltiin hymyssä suin tapausta kun lääkäri ei osannutkaan pukea vanhukselle tukisukkia takaisin jalkaan.
-Porausten tarkoitus on selvittää muun muassa kuinka laaja esiintymä todellisuudessa on ja missä määrin sitä voitaisiin kestävästi hyödyntää.
-Suurimman osan ihmiskunnan historiasta henkilökohtainen valinnanvara on ollut rajattua.
-Viime viikkoina väkivaltaiseksi muuttuneet mielenosoitukset vaikuttivat lauantaina päivällä rauhoittuneen.
-Tuoreen kyselyn mukaan ammattikouluissa tyttöjen keskuudessa nuuskaaminen on yleistynyt paikoin jopa räjähdysmäisesti.
-Tekijät saivat uhrin kertomaan pankkikorttinsa tunnusluvun sekä pankkitilinsä käyttäjätunnuksen ja salasanan.
-Rajuja ukonilmoja on alkuviikosta tehdyn ennusteen mukaan luvassa keskiviikoksi kaakossa sijaitseviin maakuntiin.
-Se on oikeasti puusta muotoiltu kynttilänjalka mutta nimensä esine on saanut herkkupalaa muistuttavasta muodosta.
-Pelastusjoukot ovat etsineet kateissa olleita ihmisiä myrskyn aiheuttaman maanvyöryn alta.
-Syyttäjä vaatii vähintään vuoden ehdotonta vankeusrangaistusta rahtialuksen kapteenille törkeästä veropetoksesta.
-Poliisi otti useita henkilöitä kiinni näyttävässä kotietsinnässä jossa rynnäköitiin panssaroidulla ajoneuvolla suoraan olohuoneeseen.
-Moni jättää aamupalan syömättä esimerkiksi kiireen nälän puutteen tai oksettavan olon vuoksi.
-Vanha junakalusto aiheuttaa niin voimakasta maaperän tärinää että lähialueen kiinteistöjen seinät halkeilevat.
-Työntekijämme saavat vähintään samat edut kuin muissakin alan yrityksissä mutta ilman hierarkiaa ja byrokratiaa.
-Hovioikeudessa valelääkärin tempauksista kunnalle aiheutuneet taloudelliset vahingot arvioitiin odotettua pienemmiksi.
-Uusissa tiloissa iloa ja valoa silmälle tuovat lasiseinät hempeät värit isot eläinvalokuvat ja hauskat piirroshahmot.
-Turvallisuuden lisäksi pitäisi ottaa huomioon muun muassa liikenteen sujuvuus ympäristö ja paikallisten tottumukset.
-Meiltä ei löydy valmiita paketteja vaan ratkaisut räätälöidään aina yhdessä asiakkaan kanssa ja heidän tarpeeseensa.
-Viljelijät ovat yhä toiveikkaita sillä kasvustot ovat pysyneet pystyssä ja pellot ovat toistaiseksi kantavia.
-Laite voi tulevaisuudessa olla hyödyksi myös lievissä turvallisuustilanteissa ja rikosten selvityksessä.
-Politiikan ei pidä olla haudanvakavaa mutta vitsailun ei myöskään pidä olla itsetarkoitus.
-Kaikki toimintamme perustuu siihen että jokaisella on vapaus ja vastuu toimia parhaaksi katsomallaan tavalla omalla vastuualueellaan.
-Jos on ujo eikä osaa ilmaista itseään sanoin kenties sen pystyy tekemään luontevammin kasvattamalla parran.
-Arjen tavat muodostuvat toistamalla ja toistojen kautta asioista tulee luontevaa kenelle hyvänsä.
-Kummallakaan ehdokkaalla ei ole aiempaa poliittista kokemusta ja he ovatkin keränneet kannatusta eliitistä riippumattomina uudistajina.
-Ihmisten kohtaamisen ohessa papilla oli aikaa tutkia hautausmaata hautoja ja niihin liittyviä elämäntarinoita.
-Neljän auton kolari aiheutti aamulla valtavan liikenneruuhkan kehätiellä.
-Tavoitteena on luoda kokonaisuus jolla tehdään vaikuttavaa ennaltaehkäisevää työtä eri puolilla maata.
-Keskiverto kotitalouteen toimitetaan nykyisin keskimäärin viisi mutta pian enää kolme kirjettä viikossa.
-Lain mukaan suojatien pitäisi olla turvallinen paikka mutta se velvoittaa myös jalankulkijaa.
-Helppohoitoiset huonekasvit ovat usein varma valinta mutta niidenkin hoidossa voi mennä vaikka mitä pieleen.
-Muinainen kolikkokätkö on tutkimuksissa paljastanut ettei veronkierto suinkaan ole vain tämän päivän rikos.
-Vankilasta saadut tiedot ovat herättäneet epäilyjä että valvonta ei ollut riittävän tarkkaa.
-Jos suinkin aikaa on pitkän matkan päätteeksi juodaan yhteiset kahvit keittiön pöydän ääressä.
-Teknologia vaikuttaa tulevaisuudessa tarvittavien taitojen lisäksi opetuksen ja oppimisen tapoihin.
-Naulakon tulee kestää vaatteiden paino tuolin on oltava tukeva ja kenkien pysyttävä kenkätelineessä.
-Toimitamme sitten tiimejä ratkaisuja tai yksittäisiä kehittäjiä on asiakkaan käytössä aina koko yrityksen laaja osaaminen ja oikeanlainen asenne.
-Kyseessä on yksi alueen vanhimmista kantatiloista josta varhaisimmat merkinnät ajoittuvat satojen vuosien taakse.
-Ilmastonmuutos voi tehdä vakuuttamisen mahdottomaksi pahimmilla riskivyöhykkeillä.
-Löytöjen joukossa on paljon keramiikkaa ja kolikoita mutta myös muun muassa satoja kenkiä ja useita amuletteja.
-Yöllisessä yhteenotossa viranomaiset ottivat kiinni useita salakalastajia ja takavarikoivat näiden kumiveneet ja päähineet.
-Aiheesta tietämättömälle sukukypsä ankerias saattaa olla hämmästyttävä jopa pelottava näky.
-Opiskelijat ovat ainoa ihmisryhmä jonka oletetaan elävän velaksi ja käyvän vielä töissä lomalla.
-Lavojen parketeilla on käyty pyörähtelemässä entistä laajemmalta alueelta ja tanssijoiden joukossa on ollut aiempaa enemmän nuorempaa polvea.
-Vintin eristämisestä ei olisi tullut mitään koska vanhat tavarat olisivat jääneet sinne purujen alle.
-Lokki kirkuu ryöstää nakkisämpylän jopa kädestä ja sotkee ulosteellaan paikkoja.
-Elostelevasta elämänkerrasta tulee rehentelyn sivumaku ja se saa sapen kiehumaan.
-Yhtiön velkojilla on ollut tähän perjantaihin asti aikaa ilmoittaa saatavansa viranomaisille.
