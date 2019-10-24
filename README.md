@@ -1,6 +1,6 @@
 # koodihaaste
 
-This is my solutionto Koodihaaste by Solidabis https://koodihaaste.solidabis.com/. 
+This is my solution to Koodihaaste by Solidabis https://koodihaaste.solidabis.com/. 
 
 The code speaks for itself but basically given words are caesar ciphered with all the keys and results checked whether they are Finnish or not. At the end Finnish sentences are printed and the ones that are not Finnish are printed with their original form.
 
