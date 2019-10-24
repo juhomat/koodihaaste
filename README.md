@@ -4,6 +4,8 @@ This is my solution to Koodihaaste by Solidabis https://koodihaaste.solidabis.co
 
 The code speaks for itself but basically given words are caesar ciphered with all the keys and results checked whether they are Finnish or not. At the end Finnish sentences are printed and the ones that are not Finnish are printed with their original form.
 
+The code can be found in https://github.com/juhomat/koodihaaste/blob/master/koodihaaste.py
+
 The end result is like this:
 
 No Bull:
