@@ -197,7 +197,7 @@ for bullshit in bullshits:
             no_bull.append(phrase.capitalize() + ".")
             
             # If you want to follow along the progress you can uncomment the print
-            print ("No Bull: " + str(count+1) + ". " + phrase.capitalize() + ".")
+            #print ("No Bull: " + str(count+1) + ". " + phrase.capitalize() + ".")
             break
         
         i = i + 1
@@ -206,7 +206,7 @@ for bullshit in bullshits:
             bull.append(bullshit['message'])
             
             # If you want to follow along the progress you can uncomment the print
-            print ("Bull: " + str(count+1) + ". " + bullshit['message'])
+            #print ("Bull: " + str(count+1) + ". " + bullshit['message'])
         
     count = count + 1
 
