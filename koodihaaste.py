@@ -210,10 +210,10 @@ for bullshit in bullshits:
         
     count = count + 1
 
-print ("Bull:")
-for x in bull:
-    print (x)
-
 print ("No Bull:")    
 for x in no_bull:
+    print (x)
+    
+print ("Bull:")
+for x in bull:
     print (x)
